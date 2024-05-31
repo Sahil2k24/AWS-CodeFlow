@@ -1,3 +1,4 @@
+**This project focuses on hosting a static website or a page by utilizing the workflow of CodeCommit, CodeBuild, CodeDeploy, and Pipeline. Through this project, you will get to learn a lot about the end-to-end process of automating software development and deployment on AWS. By setting up and configuring each service, you'll gain hands-on experience in version control, continuous integration, testing, and deployment. This project provides a practical opportunity to understand how to efficiently manage and automate the lifecycle of your applications, leading to faster and more reliable deployments.**
 
 ### CodeCommit
 - **Description:** CodeCommit is a fully-managed source control service that hosts Git repositories.
